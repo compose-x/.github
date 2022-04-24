@@ -1,17 +1,16 @@
 
 # Welcome to Compose-X!
 
-### Origins
+See our examples and walkthroughs in the [Labs](https://labs.compose-x.io) and visit our [Blog](https://blog.compose-x.io).
 
-Compose-X was created as a GitHub "organization" to group repositories used for the ecosystem and projects around
-[ECS Compose-X](https://github.com/compose-x/ecs_composex) and generally to share on AWS experience arount deployment
-of services to ECS, going from CICD to monitoring and long-term maintenance.
+Find all the examples and source for the [Labs here](https://github.com/compose-x/compose-x-labs)
 
-Using AWS Services such as AWS CloudFormation, you will find here what we hope to be helpful to your journey into
-adoption of AWS and its best practices.
+## Main projects
 
-As we have evolved with customer or work use-cases, the scope of the eco-system has expanded to other projects, a lot
-of which around Apache Kafka (and Confluent Cloud).
+| 🎁 Projects                                                       | ⭐ Docs                                            |
+|-------------------------------------------------------------------|---------------------------------------------------|
+| [ECS Compose-X](https://github.com/compose-x/ecs_composex)        | [Docs](https://docs.compose-x.io)                 |
+| [Files Composer](https://github.com/compose-x/ecs-files-composer) | [Docs](https://docs.files-composer.compose-x.io/) |
 
 
 ## 🧰 Tools & Technologies
@@ -47,3 +46,16 @@ of labs and use-cases tests.
 * [Mark Peek](https://github.com/markpeek) and all contributors of [Troposhere](https://github.com/cloudtools/troposphere)
 * The AWS CloudFormation engineering team
 * AWS for their contribution and support
+
+### Origins
+
+Compose-X was created as a GitHub "organization" to group repositories used for the ecosystem and projects around
+[ECS Compose-X](https://github.com/compose-x/ecs_composex) and generally to share on AWS experience arount deployment
+of services to ECS, going from CICD to monitoring and long-term maintenance.
+
+Using AWS Services such as AWS CloudFormation, you will find here what we hope to be helpful to your journey into
+adoption of AWS and its best practices.
+
+As we have evolved with customer or work use-cases, the scope of the eco-system has expanded to other projects, a lot
+of which around Apache Kafka (and Confluent Cloud).
+
