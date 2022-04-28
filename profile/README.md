@@ -1,6 +1,12 @@
 
 # Welcome to Compose-X!
 
+The projects we work on aim to 
+
+* Help developers/SRE/Cloud engineers to deploy applications to AWS
+* Add AWS CloudFormation integrations to build better IaC
+* Provide guidance, blogs, tutorials, to implement best practices in applications development
+
 See our examples and walkthroughs in the [Labs](https://labs.compose-x.io) and visit our [Blog](https://blog.compose-x.io).
 
 Find all the examples and source for the [Labs here](https://github.com/compose-x/compose-x-labs)
