@@ -53,15 +53,3 @@ of labs and use-cases tests.
 * The AWS CloudFormation engineering team
 * AWS for their contribution and support
 
-### Origins
-
-Compose-X was created as a GitHub "organization" to group repositories used for the ecosystem and projects around
-[ECS Compose-X](https://github.com/compose-x/ecs_composex) and generally to share on AWS experience arount deployment
-of services to ECS, going from CICD to monitoring and long-term maintenance.
-
-Using AWS Services such as AWS CloudFormation, you will find here what we hope to be helpful to your journey into
-adoption of AWS and its best practices.
-
-As we have evolved with customer or work use-cases, the scope of the eco-system has expanded to other projects, a lot
-of which around Apache Kafka (and Confluent Cloud).
-
